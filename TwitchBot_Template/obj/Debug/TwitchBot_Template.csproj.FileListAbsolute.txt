@@ -1,0 +1,9 @@
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\bin\Debug\TwitchBot_Template.exe.config
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\obj\Debug\TwitchBot_Template.csprojResolveAssemblyReference.cache
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\obj\Debug\TwitchBot_Template.Form1.resources
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\obj\Debug\TwitchBot_Template.Properties.Resources.resources
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\obj\Debug\TwitchBot_Template.csproj.GenerateResource.Cache
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\bin\Debug\TwitchBot_Template.exe
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\bin\Debug\TwitchBot_Template.pdb
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\obj\Debug\TwitchBot_Template.exe
+c:\users\wright\documents\visual studio 2015\Projects\TwitchBot_Template\TwitchBot_Template\obj\Debug\TwitchBot_Template.pdb
