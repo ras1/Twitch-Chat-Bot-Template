@@ -1,9 +1,17 @@
-﻿<appSettings>
-	<add key="userName" value="twitchBotUsernameHere"/>
-	<add key="mainChannelUserName" value="mainTwitchChannelUsernameHere"/>
+﻿<!--Use the template below to create(or rename) a new Bot.config file with your own values.-->
+<appSettings>
+	<add key="username" value="twitchBotUsernameHere"/>
+	<add key="channel" value="mainTwitchChannelUsernameHere"/>
 
 	<!--Twitch oauth token goes here, this is used to sign into your bot account. -->
 	<!--Note: You can generate an oauth token here: https://twitchapps.com/tmi/   -->
 	<add key="password" value="oauth:##########"/>
 
+  <!--A moderator can only send a maximum of 100 messages every 30 seconds.-->
+  <!--(30 seconds / 100 messages) * (1000 milliseconds / 1 second) = 300 milliseconds / 1 message if your user is a moderator in the channel-->
+  <!--<add key="messageRateLimit" value="300"/>-->
+
+  <!--A normal user can only send a maximum of 20 messages within 30 seconds.-->
+  <!--(30 seconds / 20 messages) * (1000 milliseconds / 1 second) = 1500 milliseconds / 1 message if your username is a normal user in the channel-->
+  <add key="messageRateLimit" value="1500"/>
 </appSettings>
