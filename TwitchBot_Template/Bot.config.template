@@ -1,0 +1,9 @@
+﻿<appSettings>
+	<add key="userName" value="twitchBotUsernameHere"/>
+	<add key="mainChannelUserName" value="mainTwitchChannelUsernameHere"/>
+
+	<!--Twitch oauth token goes here, this is used to sign into your bot account. -->
+	<!--Note: You can generate an oauth token here: https://twitchapps.com/tmi/   -->
+	<add key="password" value="oauth:##########"/>
+
+</appSettings>
